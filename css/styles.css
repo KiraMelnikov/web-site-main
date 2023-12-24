@@ -62,6 +62,7 @@ body {
     font-weight: 300;
     color: var(--color-primary-light);
     text-decoration: none;
+    font-style: italic;
 }
 .address-link:hover {
     color: var(--color-brand-light);
@@ -116,4 +117,14 @@ body {
 .formats-text {
     font-size: 14px;
     font-weight: 300;
+}
+address {
+    font-style: italic;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 300;
+    text-decoration: none;
+}
+.copyrite {
+    font-size: 14px;
 }
